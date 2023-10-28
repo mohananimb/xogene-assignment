@@ -1,0 +1,7 @@
+.header__container {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: grey;
+    color: black;
+}
